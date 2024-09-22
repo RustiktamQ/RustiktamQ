@@ -6,13 +6,13 @@
 
 🚀 Currently working on personal pet projects that automate tasks, explore new technologies, and solve everyday problems
 
-🛠️ Tech Stack:
+🛠️ Tech Stack: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Node.js | Express | Next.js
 
 PostgreSQL | MySQL | Redis
 
-🌐 Connect with me:
+🌐 Connect with me: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - 📧 [Telegram](https://t.me/Rustiktam)
 - 📧 [Email](mailto:rramilperm@gmail.com)
 
