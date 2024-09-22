@@ -1,4 +1,4 @@
-![banner](./welcome banner.jpg)
+![banner](banner.jpg)
 
 👋 Greetings ladies and gentlemen, I'm Rustam Rahmangulov — a backend programmer who likes challenges (as long as it's not too many).
 
