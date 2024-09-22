@@ -15,7 +15,5 @@ PostgreSQL | MySQL | Redis
 🌐 Connect with me:
 - 📧 [Telegram](https://t.me/Rustiktam)
 - 📧 [Email](mailto:rramilperm@gmail.com)
-  
-☕ Tea > coffee 
 
 ✌️ Yo!
