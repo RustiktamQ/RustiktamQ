@@ -1,4 +1,4 @@
-![banner](https://images6.alphacoders.com/655/655055.jpg)
+![banner](./welcome banner.jpg)
 
 👋 Greetings ladies and gentlemen, I'm Rustam Rahmangulov — a backend programmer who likes challenges (as long as it's not too many).
 
