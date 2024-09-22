@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Rustam — a backend programmer who likes challenges (as long as it's not too many).
 
-<!--
-**RustiktamQ/RustiktamQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in JavaScript, PostgreSQL, and Next.js, building web apps with a focus on efficiency and minimal effort. I love solving problems through automation and simplifying complex tasks.
 
-Here are some ideas to get you started:
+🚀 Currently working on personal pet projects that automate tasks, explore new technologies, and solve everyday problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+
+Node.js | Express | Next.js
+PostgreSQL | MySQL | Redis
+🌐 Connect with me:
+
+telegram
+email
+☕ Tea > coffee ✌️ Yo!
