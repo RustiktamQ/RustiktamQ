@@ -1,6 +1,6 @@
 ![banner](banner.jpg)
 
-👋 Greetings ladies and gentlemen, I'm Rustam Rahmangulov — a backend programmer who likes challenges (as long as it's not too many).
+👋 Greetings ladies and gentlemen, I'm — a backend programmer who likes challenges (as long as it's not too many).
 
 💻 I specialize in JavaScript, PostgreSQL, and Next.js, building web apps with a focus on efficiency and minimal effort. I love solving problems through automation and simplifying complex tasks.
 
